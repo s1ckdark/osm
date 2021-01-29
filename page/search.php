@@ -32,7 +32,7 @@
                         <input type="text" id="search">
                         <button id="searchbtn">검색하기</button>
                     </div>
-                    <div class="result"></div>
+                    <div id="result"></div>
                 </div>
             </div>
         </div>
